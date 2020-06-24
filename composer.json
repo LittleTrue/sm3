@@ -1,0 +1,22 @@
+{
+    "name": "gxz/sm3",
+    "type": "library",
+    "keywords": [
+        "data sign sm3",
+        "sm3"
+    ],
+    "authors": [
+        {
+            "name": "littleTrue",
+            "email": "644812368@qq.com",
+            "homepage": "https://www.jianshu.com/u/8775ddf16c8b"
+        }
+    ],
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {                                                 
+            "sm3\\": "src/"
+        }
+    }
+
+}
